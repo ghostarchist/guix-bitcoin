@@ -1,28 +1,14 @@
-# -*- mode: org; org-html-head-include-scripts: nil; org-html-head-include-default-style: nil; -*-
+# -*- mode: org; org-html-head-include-scripts: nil; org-html-head-include-default-style: nil; org-startup-with-inline-images: t; -*-
 #+OPTIONS: toc:nil
 #+TITLE: Guix Bitcoin
+[[./img/guix-bitcoin.svg]]
 
- #+BEGIN_EXPORT html
- <p align="center">
-  <img
-    width="320"
-    src="img/guix-bitcoin.svg"
-    alt="guix-bitcoin logo">
- </p>
- <br />
- <p align="center">
-    <a href="https://www.gnu.org/software/guile/">
-    <img src="https://luis-felipe.gitlab.io/media/badges/gnu-guile-made.svg" alt="Made with Guile" />
-    </a>
- </p>
-
- #+END_EXPORT
-
+[[./img/gnu-guile-made.svg]]
 
 guix-bitcoin is a collection of packages and services for installing *full-features Bitcoin nodes* and Bitcoin utilities with an emphasis on security and bootstrappablity.
 
  * Overview
- Guix-bitcoin is a [[gnu.guix.org][GNU Guix]] channel specializing in bitcoin utilities, these are either not yet included in the main Guix channel, or not updated to the latest release yet.
+ Guix-bitcoin is a [[https://gnu.guix.org][GNU Guix]] channel specializing in bitcoin utilities, these are either not yet included in the main Guix channel, or not updated to the latest release yet.
 
  * Motivation
    The bitcoin-core team recognized that the Guix package manager can be used to provide a secure development environment for bitcoin, this repo/channel attempts to bring that same security to deployment enviroments
