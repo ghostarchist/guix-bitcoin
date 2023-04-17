@@ -1,6 +1,10 @@
 # -*- mode: org; org-html-head-include-scripts: nil; org-html-head-include-default-style: nil; org-startup-with-inline-images: t; -*-
 #+OPTIONS: toc:nil
-#+TITLE: Guix Bitcoin
+
+#+CAPTION: Guix-Bitcoin
+#+NAME: Guix-Bitcoin
+
+
 [[./img/guix-bitcoin.svg]]
 
 [[./img/gnu-guile-made.svg]]
