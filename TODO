@@ -1,0 +1,8 @@
+# -*- mode: org; org-archive-reversed-order: t -*-
+#+STARTUP: content
+#+TODO: TODO(t) NEXT(n) WAIT(w) | DONE(d) CANCELLED(c)
+#+TITLE: Guix Bitcoin Tasks
+#+CATEGORY: guix-bitcoin
+#+ARCHIVE: ::* Archive
+
+* ~Guix Bitcoin~
