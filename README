@@ -1,4 +1,4 @@
-# -*- mode: org; org-html-head-include-scripts: nil; org-html-head-include-default-style: nil; org-startup-with-inline-images: t; -*-
+# -*- mode: org; org-html-head-include-scripts: nil; org-html-head-include-default-style: nil; org-startup-with-inline-images: t; org-display-remote-inline-images: t;-*-
 #+OPTIONS: toc:nil
 
 #+CAPTION: Guix-Bitcoin
@@ -7,7 +7,7 @@
 
 [[./img/guix-bitcoin.svg]]
 
-[[./img/gnu-guile-made.svg]]
+    [[./img/gnu-guile-made.svg]] [[./img/license-GPL_3-orange.svg]]
 
 guix-bitcoin is a collection of packages and services for installing *full-features Bitcoin nodes* and Bitcoin utilities with an emphasis on security and bootstrappablity.
 
